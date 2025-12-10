@@ -1,7 +1,8 @@
 # Reaction Network Database for Fast Pyrolysis of Vanillyl Alcohol
 ## Integrated with Electronic Structure Descriptors
 
-**Authors:** Shi Jingyuan，Li Chenchen，Cheng Xiaoxue，Ling Qifan，Mu Mao，Wang Shuang*，Jiang Ding* **Affiliation:** School of Energy and Power Engineering, Jiangsu University  
+**Authors:** Shi Jingyuan，Li Chenchen，Cheng Xiaoxue，Ling Qifan，Mu Mao，Wang Shuang*，Jiang Ding* 
+**Affiliation:** School of Energy and Power Engineering, Jiangsu University  
 
 
 ---
