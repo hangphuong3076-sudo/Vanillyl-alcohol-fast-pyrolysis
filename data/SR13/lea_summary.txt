@@ -1,0 +1,15 @@
+===== SR13 LEA Summary ===== 
+ Volume:  1230.80903 Bohr^3  ( 182.38708 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    1.2487 g/cm^3
+ Minimal value:    -42.32281 eV,   Maximal value:    -14.57784 eV
+ Overall surface area:         655.28611 Bohr^2  ( 183.49880 Angstrom^2)
+ Positive surface area:          0.00000 Bohr^2  (   0.00000 Angstrom^2)
+ Negative surface area:        655.28611 Bohr^2  ( 183.49880 Angstrom^2)
+ Overall average value:  -0.9262621 a.u. ( -25.20487 eV,   -581.23871 kcal/mol)
+ Positive average value:        NaN a.u. (       NaN eV,          NaN kcal/mol)
+ Negative average value: -0.9262621 a.u. ( -25.20487 eV,   -581.23871 kcal/mol)
+ Overall variance:   0.051858 a.u.^2  (  38.39864 eV^2, 0.20420E+05 kcal/mol^2)
+ Positive variance:  0.000000 a.u.^2  (   0.00000 eV^2, 0.00000E+00 kcal/mol^2)
+ Negative variance:  0.051858 a.u.^2  (  38.39864 eV^2, 0.20420E+05 kcal/mol^2)
+ Overall skewness:        -0.1232963750
+ Negative skewness:       -0.1232963750

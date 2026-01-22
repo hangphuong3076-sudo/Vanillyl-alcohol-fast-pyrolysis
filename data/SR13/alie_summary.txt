@@ -1,0 +1,11 @@
+===== SR13 ALIE Summary ===== 
+ Volume:  1230.80903 Bohr^3  ( 182.38708 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    1.2487 g/cm^3
+ Minimal value:      6.75532 eV,   Maximal value:     16.47959 eV
+ Overall surface area:         655.28611 Bohr^2  ( 183.49880 Angstrom^2)
+ Positive surface area:        655.28611 Bohr^2  ( 183.49880 Angstrom^2)
+ Negative surface area:          0.00000 Bohr^2  (   0.00000 Angstrom^2)
+ Average value:    0.41837015 a.u. (     11.38443 eV,    262.53145 kcal/mol)
+ Variance:     0.00284554 a.u.^2  (      2.10701 eV^2,  0.11205E+04 kcal/mol^2)
+ Overall skewness:        -0.0701782792
+ Positive skewness:       -0.0701782792
