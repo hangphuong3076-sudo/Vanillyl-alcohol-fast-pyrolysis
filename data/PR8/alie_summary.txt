@@ -1,0 +1,11 @@
+===== PR8 ALIE Summary ===== 
+ Volume:  1030.94840 Bohr^3  ( 152.77079 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    1.3274 g/cm^3
+ Minimal value:      8.86034 eV,   Maximal value:     16.29536 eV
+ Overall surface area:         559.53572 Bohr^2  ( 156.68596 Angstrom^2)
+ Positive surface area:        559.53572 Bohr^2  ( 156.68596 Angstrom^2)
+ Negative surface area:          0.00000 Bohr^2  (   0.00000 Angstrom^2)
+ Average value:    0.43048823 a.u. (     11.71418 eV,    270.13567 kcal/mol)
+ Variance:     0.00207712 a.u.^2  (      1.53803 eV^2,  0.81791E+03 kcal/mol^2)
+ Overall skewness:         0.0963420427
+ Positive skewness:        0.0963420427
