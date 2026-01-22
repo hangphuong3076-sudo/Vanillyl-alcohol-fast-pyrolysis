@@ -1,0 +1,15 @@
+===== SR12 LEAE Summary ===== 
+ Volume:   819.72123 Bohr^3  ( 121.47015 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    1.8750 g/cm^3
+ Minimal value:     -0.92821 eV,   Maximal value:     -0.00000 eV
+ Overall surface area:         538.98017 Bohr^2  ( 150.92982 Angstrom^2)
+ Positive surface area:          0.00000 Bohr^2  (   0.00000 Angstrom^2)
+ Negative surface area:        538.98017 Bohr^2  ( 150.92982 Angstrom^2)
+ Overall average value:  -0.0050952 a.u. (  -0.13865 eV,     -3.19726 kcal/mol)
+ Positive average value:        NaN a.u. (       NaN eV,          NaN kcal/mol)
+ Negative average value: -0.0050952 a.u. (  -0.13865 eV,     -3.19726 kcal/mol)
+ Overall variance:   0.000053 a.u.^2  (   0.03892 eV^2, 0.20698E+02 kcal/mol^2)
+ Positive variance:  0.000000 a.u.^2  (   0.00000 eV^2, 0.00000E+00 kcal/mol^2)
+ Negative variance:  0.000053 a.u.^2  (   0.03892 eV^2, 0.20698E+02 kcal/mol^2)
+ Overall skewness:        -1.7828940894
+ Negative skewness:       -1.7828940894
