@@ -1,0 +1,11 @@
+===== SR4 ALIE Summary ===== 
+ Volume:   983.05632 Bohr^3  ( 145.67392 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    1.2097 g/cm^3
+ Minimal value:      8.08924 eV,   Maximal value:     15.25340 eV
+ Overall surface area:         555.52154 Bohr^2  ( 155.56188 Angstrom^2)
+ Positive surface area:        555.52154 Bohr^2  ( 155.56188 Angstrom^2)
+ Negative surface area:          0.00000 Bohr^2  (   0.00000 Angstrom^2)
+ Average value:    0.42987453 a.u. (     11.69748 eV,    269.75057 kcal/mol)
+ Variance:     0.00343000 a.u.^2  (      2.53977 eV^2,  0.13506E+04 kcal/mol^2)
+ Overall skewness:        -0.2813901133
+ Positive skewness:       -0.2813901133
