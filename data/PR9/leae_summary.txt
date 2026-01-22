@@ -1,0 +1,15 @@
+===== PR9 LEAE Summary ===== 
+ Volume:   707.36581 Bohr^3  ( 104.82080 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    1.9506 g/cm^3
+ Minimal value:     -0.95701 eV,   Maximal value:     -0.00000 eV
+ Overall surface area:         469.73518 Bohr^2  ( 131.53925 Angstrom^2)
+ Positive surface area:          0.00000 Bohr^2  (   0.00000 Angstrom^2)
+ Negative surface area:        469.73518 Bohr^2  ( 131.53925 Angstrom^2)
+ Overall average value:  -0.0065116 a.u. (  -0.17719 eV,     -4.08608 kcal/mol)
+ Positive average value:        NaN a.u. (       NaN eV,          NaN kcal/mol)
+ Negative average value: -0.0065116 a.u. (  -0.17719 eV,     -4.08608 kcal/mol)
+ Overall variance:   0.000063 a.u.^2  (   0.04700 eV^2, 0.24994E+02 kcal/mol^2)
+ Positive variance:  0.000000 a.u.^2  (   0.00000 eV^2, 0.00000E+00 kcal/mol^2)
+ Negative variance:  0.000063 a.u.^2  (   0.04700 eV^2, 0.24994E+02 kcal/mol^2)
+ Overall skewness:        -1.5902640294
+ Negative skewness:       -1.5902640294
