@@ -1,0 +1,11 @@
+===== SR11 ALIE Summary ===== 
+ Volume:  1238.14864 Bohr^3  ( 183.47470 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    1.2505 g/cm^3
+ Minimal value:      8.46774 eV,   Maximal value:     16.57530 eV
+ Overall surface area:         653.87064 Bohr^2  ( 183.10243 Angstrom^2)
+ Positive surface area:        653.87064 Bohr^2  ( 183.10243 Angstrom^2)
+ Negative surface area:          0.00000 Bohr^2  (   0.00000 Angstrom^2)
+ Average value:    0.42429316 a.u. (     11.54560 eV,    266.24820 kcal/mol)
+ Variance:     0.00275451 a.u.^2  (      2.03960 eV^2,  0.10846E+04 kcal/mol^2)
+ Overall skewness:         0.6527241494
+ Positive skewness:        0.6527241494
