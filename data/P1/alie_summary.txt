@@ -1,0 +1,11 @@
+===== P1 ALIE Summary ===== 
+ Volume:  1022.85317 Bohr^3  ( 151.57120 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    1.1847 g/cm^3
+ Minimal value:      8.54923 eV,   Maximal value:     16.31248 eV
+ Overall surface area:         558.25316 Bohr^2  ( 156.32681 Angstrom^2)
+ Positive surface area:        558.25316 Bohr^2  ( 156.32681 Angstrom^2)
+ Negative surface area:          0.00000 Bohr^2  (   0.00000 Angstrom^2)
+ Average value:    0.41845207 a.u. (     11.38666 eV,    262.58286 kcal/mol)
+ Variance:     0.00256653 a.u.^2  (      1.90041 eV^2,  0.10106E+04 kcal/mol^2)
+ Overall skewness:         0.2325768723
+ Positive skewness:        0.2325768723
