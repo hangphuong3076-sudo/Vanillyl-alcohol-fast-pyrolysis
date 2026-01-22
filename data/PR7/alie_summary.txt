@@ -1,0 +1,11 @@
+===== PR7 ALIE Summary ===== 
+ Volume:  1123.17724 Bohr^3  ( 166.43769 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    1.3881 g/cm^3
+ Minimal value:      9.01321 eV,   Maximal value:     16.78914 eV
+ Overall surface area:         606.09265 Bohr^2  ( 169.72323 Angstrom^2)
+ Positive surface area:        606.09265 Bohr^2  ( 169.72323 Angstrom^2)
+ Negative surface area:          0.00000 Bohr^2  (   0.00000 Angstrom^2)
+ Average value:    0.43446800 a.u. (     11.82248 eV,    272.63301 kcal/mol)
+ Variance:     0.00316682 a.u.^2  (      2.34490 eV^2,  0.12470E+04 kcal/mol^2)
+ Overall skewness:         0.6281010610
+ Positive skewness:        0.6281010610
