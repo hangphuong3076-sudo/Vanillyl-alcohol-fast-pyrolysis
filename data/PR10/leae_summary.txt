@@ -1,0 +1,15 @@
+===== PR10 LEAE Summary ===== 
+ Volume:   834.08092 Bohr^3  ( 123.59804 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    1.8562 g/cm^3
+ Minimal value:     -0.01267 eV,   Maximal value:     -0.00000 eV
+ Overall surface area:         544.75576 Bohr^2  ( 152.54715 Angstrom^2)
+ Positive surface area:          0.00000 Bohr^2  (   0.00000 Angstrom^2)
+ Negative surface area:        544.75576 Bohr^2  ( 152.54715 Angstrom^2)
+ Overall average value:  -0.0000512 a.u. (  -0.00139 eV,     -0.03212 kcal/mol)
+ Positive average value:        NaN a.u. (       NaN eV,          NaN kcal/mol)
+ Negative average value: -0.0000512 a.u. (  -0.00139 eV,     -0.03212 kcal/mol)
+ Overall variance:   0.000000 a.u.^2  (   0.00001 eV^2, 0.30579E-02 kcal/mol^2)
+ Positive variance:  0.000000 a.u.^2  (   0.00000 eV^2, 0.00000E+00 kcal/mol^2)
+ Negative variance:  0.000000 a.u.^2  (   0.00001 eV^2, 0.30579E-02 kcal/mol^2)
+ Overall skewness:        -2.3030679099
+ Negative skewness:       -2.3030679099
