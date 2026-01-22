@@ -1,0 +1,15 @@
+===== SR3 LEAE Summary ===== 
+ Volume:   725.04327 Bohr^3  ( 107.44033 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    1.9186 g/cm^3
+ Minimal value:     -0.09143 eV,   Maximal value:     -0.00000 eV
+ Overall surface area:         480.07957 Bohr^2  ( 134.43597 Angstrom^2)
+ Positive surface area:          0.00000 Bohr^2  (   0.00000 Angstrom^2)
+ Negative surface area:        480.07957 Bohr^2  ( 134.43597 Angstrom^2)
+ Overall average value:  -0.0004278 a.u. (  -0.01164 eV,     -0.26843 kcal/mol)
+ Positive average value:        NaN a.u. (       NaN eV,          NaN kcal/mol)
+ Negative average value: -0.0004278 a.u. (  -0.01164 eV,     -0.26843 kcal/mol)
+ Overall variance:   0.000000 a.u.^2  (   0.00033 eV^2, 0.17681E+00 kcal/mol^2)
+ Positive variance:  0.000000 a.u.^2  (   0.00000 eV^2, 0.00000E+00 kcal/mol^2)
+ Negative variance:  0.000000 a.u.^2  (   0.00033 eV^2, 0.17681E+00 kcal/mol^2)
+ Overall skewness:        -2.1073108562
+ Negative skewness:       -2.1073108562

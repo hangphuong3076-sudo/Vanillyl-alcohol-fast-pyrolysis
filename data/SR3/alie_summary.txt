@@ -1,0 +1,11 @@
+===== SR3 ALIE Summary ===== 
+ Volume:  1082.84513 Bohr^3  ( 160.46109 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    1.2846 g/cm^3
+ Minimal value:      8.56807 eV,   Maximal value:     16.61112 eV
+ Overall surface area:         585.32337 Bohr^2  ( 163.90724 Angstrom^2)
+ Positive surface area:        585.32337 Bohr^2  ( 163.90724 Angstrom^2)
+ Negative surface area:          0.00000 Bohr^2  (   0.00000 Angstrom^2)
+ Average value:    0.42591675 a.u. (     11.58978 eV,    267.26702 kcal/mol)
+ Variance:     0.00324221 a.u.^2  (      2.40073 eV^2,  0.12767E+04 kcal/mol^2)
+ Overall skewness:         0.5292791884
+ Positive skewness:        0.5292791884
