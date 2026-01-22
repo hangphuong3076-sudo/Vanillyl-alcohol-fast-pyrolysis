@@ -1,0 +1,11 @@
+===== PR3 ALIE Summary ===== 
+ Volume:  1085.82577 Bohr^3  ( 160.90278 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    1.2811 g/cm^3
+ Minimal value:      8.62690 eV,   Maximal value:     16.15477 eV
+ Overall surface area:         586.38517 Bohr^2  ( 164.20457 Angstrom^2)
+ Positive surface area:        586.38517 Bohr^2  ( 164.20457 Angstrom^2)
+ Negative surface area:          0.00000 Bohr^2  (   0.00000 Angstrom^2)
+ Average value:    0.42580423 a.u. (     11.58672 eV,    267.19642 kcal/mol)
+ Variance:     0.00310475 a.u.^2  (      2.29894 eV^2,  0.12226E+04 kcal/mol^2)
+ Overall skewness:        -0.0514813960
+ Positive skewness:       -0.0514813960
