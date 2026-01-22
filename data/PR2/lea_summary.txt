@@ -1,0 +1,15 @@
+===== PR2 LEA Summary ===== 
+ Volume:  1065.48867 Bohr^3  ( 157.88913 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    1.2950 g/cm^3
+ Minimal value:    -41.95136 eV,   Maximal value:    -14.56341 eV
+ Overall surface area:         576.31372 Bohr^2  ( 161.38428 Angstrom^2)
+ Positive surface area:          0.00000 Bohr^2  (   0.00000 Angstrom^2)
+ Negative surface area:        576.31372 Bohr^2  ( 161.38428 Angstrom^2)
+ Overall average value:  -0.9413235 a.u. ( -25.61472 eV,   -590.68994 kcal/mol)
+ Positive average value:        NaN a.u. (       NaN eV,          NaN kcal/mol)
+ Negative average value: -0.9413235 a.u. ( -25.61472 eV,   -590.68994 kcal/mol)
+ Overall variance:   0.041329 a.u.^2  (  30.60270 eV^2, 0.16274E+05 kcal/mol^2)
+ Positive variance:  0.000000 a.u.^2  (   0.00000 eV^2, 0.00000E+00 kcal/mol^2)
+ Negative variance:  0.041329 a.u.^2  (  30.60270 eV^2, 0.16274E+05 kcal/mol^2)
+ Overall skewness:        -0.0423722127
+ Negative skewness:       -0.0423722127
