@@ -1,0 +1,11 @@
+===== SR15 ALIE Summary ===== 
+ Volume:  1208.45829 Bohr^3  ( 179.07504 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    1.2718 g/cm^3
+ Minimal value:      8.74201 eV,   Maximal value:     15.96898 eV
+ Overall surface area:         640.50575 Bohr^2  ( 179.35988 Angstrom^2)
+ Positive surface area:        640.50575 Bohr^2  ( 179.35988 Angstrom^2)
+ Negative surface area:          0.00000 Bohr^2  (   0.00000 Angstrom^2)
+ Average value:    0.42785084 a.u. (     11.64241 eV,    268.48068 kcal/mol)
+ Variance:     0.00179532 a.u.^2  (      1.32936 eV^2,  0.70694E+03 kcal/mol^2)
+ Overall skewness:        -0.2230814089
+ Positive skewness:       -0.2230814089

@@ -1,0 +1,15 @@
+===== SR15 LEAE Summary ===== 
+ Volume:   812.54870 Bohr^3  ( 120.40729 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    1.8915 g/cm^3
+ Minimal value:     -2.01104 eV,   Maximal value:     -0.00000 eV
+ Overall surface area:         529.27424 Bohr^2  ( 148.21188 Angstrom^2)
+ Positive surface area:          0.00000 Bohr^2  (   0.00000 Angstrom^2)
+ Negative surface area:        529.27424 Bohr^2  ( 148.21188 Angstrom^2)
+ Overall average value:  -0.0078047 a.u. (  -0.21238 eV,     -4.89755 kcal/mol)
+ Positive average value:        NaN a.u. (       NaN eV,          NaN kcal/mol)
+ Negative average value: -0.0078047 a.u. (  -0.21238 eV,     -4.89755 kcal/mol)
+ Overall variance:   0.000151 a.u.^2  (   0.11180 eV^2, 0.59456E+02 kcal/mol^2)
+ Positive variance:  0.000000 a.u.^2  (   0.00000 eV^2, 0.00000E+00 kcal/mol^2)
+ Negative variance:  0.000151 a.u.^2  (   0.11180 eV^2, 0.59456E+02 kcal/mol^2)
+ Overall skewness:        -2.6022042112
+ Negative skewness:       -2.6022042112
