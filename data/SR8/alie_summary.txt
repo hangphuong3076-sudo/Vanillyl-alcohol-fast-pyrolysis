@@ -1,0 +1,11 @@
+===== SR8 ALIE Summary ===== 
+ Volume:  1003.74302 Bohr^3  ( 148.73937 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    1.1960 g/cm^3
+ Minimal value:      8.10993 eV,   Maximal value:     16.26313 eV
+ Overall surface area:         549.66182 Bohr^2  ( 153.92099 Angstrom^2)
+ Positive surface area:        549.66182 Bohr^2  ( 153.92099 Angstrom^2)
+ Negative surface area:          0.00000 Bohr^2  (   0.00000 Angstrom^2)
+ Average value:    0.41438420 a.u. (     11.27597 eV,    260.03023 kcal/mol)
+ Variance:     0.00292862 a.u.^2  (      2.16852 eV^2,  0.11532E+04 kcal/mol^2)
+ Overall skewness:         0.0816705799
+ Positive skewness:        0.0816705799
