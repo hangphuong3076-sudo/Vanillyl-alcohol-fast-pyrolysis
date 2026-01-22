@@ -1,0 +1,15 @@
+===== PR4 LEA Summary ===== 
+ Volume:  1221.27883 Bohr^3  ( 180.97485 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    1.2585 g/cm^3
+ Minimal value:    -42.10652 eV,   Maximal value:    -14.62893 eV
+ Overall surface area:         647.89832 Bohr^2  ( 181.43001 Angstrom^2)
+ Positive surface area:          0.00000 Bohr^2  (   0.00000 Angstrom^2)
+ Negative surface area:        647.89832 Bohr^2  ( 181.43001 Angstrom^2)
+ Overall average value:  -0.9380648 a.u. ( -25.52604 eV,   -588.64507 kcal/mol)
+ Positive average value:        NaN a.u. (       NaN eV,          NaN kcal/mol)
+ Negative average value: -0.9380648 a.u. ( -25.52604 eV,   -588.64507 kcal/mol)
+ Overall variance:   0.048273 a.u.^2  (  35.74387 eV^2, 0.19008E+05 kcal/mol^2)
+ Positive variance:  0.000000 a.u.^2  (   0.00000 eV^2, 0.00000E+00 kcal/mol^2)
+ Negative variance:  0.048273 a.u.^2  (  35.74387 eV^2, 0.19008E+05 kcal/mol^2)
+ Overall skewness:         0.0639384215
+ Negative skewness:        0.0639384215
