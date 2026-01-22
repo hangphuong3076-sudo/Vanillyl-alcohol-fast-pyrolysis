@@ -1,0 +1,15 @@
+===== SR2 LEA Summary ===== 
+ Volume:  1063.19027 Bohr^3  ( 157.54854 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    1.2978 g/cm^3
+ Minimal value:    -43.17636 eV,   Maximal value:    -14.68706 eV
+ Overall surface area:         578.16811 Bohr^2  ( 161.90356 Angstrom^2)
+ Positive surface area:          0.00000 Bohr^2  (   0.00000 Angstrom^2)
+ Negative surface area:        578.16811 Bohr^2  ( 161.90356 Angstrom^2)
+ Overall average value:  -0.9802611 a.u. ( -26.67426 eV,   -615.12362 kcal/mol)
+ Positive average value:        NaN a.u. (       NaN eV,          NaN kcal/mol)
+ Negative average value: -0.9802611 a.u. ( -26.67426 eV,   -615.12362 kcal/mol)
+ Overall variance:   0.060500 a.u.^2  (  44.79813 eV^2, 0.23823E+05 kcal/mol^2)
+ Positive variance:  0.000000 a.u.^2  (   0.00000 eV^2, 0.00000E+00 kcal/mol^2)
+ Negative variance:  0.060500 a.u.^2  (  44.79813 eV^2, 0.23823E+05 kcal/mol^2)
+ Overall skewness:        -0.1015410672
+ Negative skewness:       -0.1015410672
